@@ -7,7 +7,9 @@ Este proyecto fue creado con [Create React App](https://github.com/facebook/crea
 #### `axios`
 
 
-Este proyecto requiere del reporitorio express-api y puedes correr este proyecto con:
+Este proyecto requiere del reporitorio express-api. 
+
+Puedes correr este proyecto con:
 
 ### `npm start`
 
